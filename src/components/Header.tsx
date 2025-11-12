@@ -65,7 +65,7 @@ const Header = () => {
               <a href="#about" className="text-foreground hover:text-primary transition-colors py-2">
                 About
               </a>
-              <Button className="mt-4 bg-primary hover:bg-primary/90 text-primary-foreground">
+              <Button className="mt-4 bg-primary hover:bg-primary/90 text-primary-foreground text-yellow-200">
                 Start Verifying
               </Button>
             </nav>
