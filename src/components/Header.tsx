@@ -36,7 +36,7 @@ const Header = () => {
           {/* CTA Button */}
           <div className="hidden md:block">
             <Button className="bg-primary hover:bg-primary/90 text-primary-foreground">
-              Start Verifying
+              Start to Verify ....
             </Button>
           </div>
 
