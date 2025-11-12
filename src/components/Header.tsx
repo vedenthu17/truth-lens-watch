@@ -11,9 +11,9 @@ const Header = () => {
         <div className="flex items-center justify-between">
           {/* Logo */}
           <div className="flex items-center space-x-2">
-            <Shield className="h-8 w-8 text-primary" />
+            <Shield className="h-12 w-8 text-primary" />
             <h1 className="text-2xl font-bold text-foreground">
-              Neutral<span className="text-primary">Mirror</span>
+              Neutral<span className="text-primary text-red-600">Mirror</span>
             </h1>
           </div>
 
